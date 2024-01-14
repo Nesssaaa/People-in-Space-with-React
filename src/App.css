@@ -1,5 +1,30 @@
 .App {
   text-align: center;
+  font-size: 2rem;
+  margin-top: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: black;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  color: #81c1d3;
+  border: 4px solid #81c1d3;
+}
+li {
+  color: white;
+  font-size: 1.5rem;
+}
+
+button {
+  margin: 1.6rem;
+  background-color: #81c1d3;
+}
+
+.button-description {
+  font-size: 1.4rem;
 }
 
 .App-logo {
